@@ -20,3 +20,5 @@ AWS Athena: An interactive query service that enables data analysis directly in 
 # Dataset
 The dataset, sourced from Kaggle, includes daily statistics on trending YouTube videos from various regions. It contains up to 200 trending videos per day per country and includes details such as video title, channel title, publish time, tags, views, likes, dislikes, comments count, description, and category ID. Region-specific metadata is stored in accompanying JSON files.
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+# Project Architechture
+<img width="910" alt="Screenshot 2025-04-15 at 10 36 17 PM" src="https://github.com/user-attachments/assets/5af98d3d-ca95-4136-9b24-20b2a87231e0" />
